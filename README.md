@@ -22,4 +22,4 @@ The main project objective was to design a multimeter device that has multiple f
 
 ## Final Product
 An image of the final prototype is captured in the figure below. 
-![alt text](thumbnail_Image.jpg "Final Multimeter Prototype")
+![Multimeter](final_product.jpg "Final Multimeter Prototype")
